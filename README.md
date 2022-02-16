@@ -34,7 +34,7 @@
 </details>
 
 <!-- Installation -->
-### Installation
+## Installation
 
 1. Download the latest [ColorNord.ini](https://github.com/phamngocvinh/total-commander-nord/releases/latest)
 2. Locate wincmd.ini
@@ -46,11 +46,11 @@ Go to Menu -> Help -> About Total Commander... -> Settings files
 
 
 3. Edit wincmd.ini
-If [ColorsDark] block exists, replace it with new content from ColorNord.ini
-If [ColorsDark] block not exists, add content from ColorNord.ini to the end of file
+
+- If [ColorsDark] block exists, replace it with new content from ColorNord.ini
+- If [ColorsDark] block not exists, add content from ColorNord.ini to the end of file
 
 ![Edit wincmd.ini](images/install_3.jpg "Edit wincmd.ini")
-
 ![Edit wincmd.ini](images/install_4.jpg "Edit wincmd.ini")
 
 
