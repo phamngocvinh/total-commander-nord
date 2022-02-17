@@ -99,13 +99,13 @@ Project Link: [https://github.com/phamngocvinh/total-commander-nord](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[download-shield]: https://img.shields.io/github/downloads/phamngocvinh/total-commander-nord/total?color=green&style=for-the-badge
+[download-shield]: https://img.shields.io/github/downloads/phamngocvinh/total-commander-nord/total?style=for-the-badge&labelColor=4c566a&color=5e81ac&logo=github&logoColor=white
 [download-url]: https://github.com/phamngocvinh/total-commander-nord/releases/latest
-[release-shield]: https://img.shields.io/github/v/release/phamngocvinh/total-commander-nord?style=for-the-badge
+[release-shield]: https://img.shields.io/github/v/release/phamngocvinh/total-commander-nord?style=for-the-badge&labelColor=4c566a&color=5e81ac&logo=Battle.net&logoColor=white
 [release-url]: https://github.com/phamngocvinh/total-commander-nord/releases/latest
-[issues-shield]: https://img.shields.io/github/issues/phamngocvinh/total-commander-nord?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/phamngocvinh/total-commander-nord?style=for-the-badge&labelColor=4c566a&color=5e81ac&logo=Todoist&logoColor=white
 [issues-url]: https://github.com/phamngocvinh/total-commander-nord/issues
-[license-shield]: https://img.shields.io/github/license/phamngocvinh/total-commander-nord?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/phamngocvinh/total-commander-nord?style=for-the-badge&labelColor=4c566a&color=5e81ac&logo=AdGuard&logoColor=white
 [license-url]: https://github.com/phamngocvinh/total-commander-nord/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/phamngocvinh932
