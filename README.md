@@ -38,6 +38,7 @@
 
 1. Download the latest [ColorNord.ini](https://github.com/phamngocvinh/total-commander-nord/releases/latest)
 2. Locate wincmd.ini
+
 Go to Menu -> Help -> About Total Commander... -> Settings files
 
 ![Locate wincmd.ini](images/install_1.jpg "Locate wincmd.ini")
@@ -55,6 +56,7 @@ Go to Menu -> Help -> About Total Commander... -> Settings files
 
 
 4. Switch to Dark Mode
+
 Go to Menu -> Configuration -> Dark<>Normal
 
 ![Switch to Dark Mode](images/install_5.jpg "Switch to Dark Mode")
