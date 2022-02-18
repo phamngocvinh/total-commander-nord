@@ -49,7 +49,7 @@ Go to Menu -> Help -> About Total Commander... -> Settings files
 3. Edit wincmd.ini
 
 - If [ColorsDark] block exists, replace it with new content from ColorNord.ini
-- If [ColorsDark] block not exists, add content from ColorNord.ini to the end of file
+- If [ColorsDark] block not exists, copy content from ColorNord.ini to the end of file
 
 ![Edit wincmd.ini](images/install_3.jpg "Edit wincmd.ini")
 ![Edit wincmd.ini](images/install_4.jpg "Edit wincmd.ini")
