@@ -99,6 +99,8 @@ Project Link: [https://github.com/phamngocvinh/total-commander-nord](https://git
 * [Nord Theme Palettes](https://www.nordtheme.com)
 * [Shields.io](https://shields.io)
 
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [download-shield]: https://img.shields.io/github/downloads/phamngocvinh/total-commander-nord/total?style=for-the-badge&labelColor=4c566a&color=5e81ac&logo=github&logoColor=white
